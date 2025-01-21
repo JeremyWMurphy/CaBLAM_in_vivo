@@ -7,7 +7,8 @@ bioRxiv 2023.06.25.546478; doi: <https://doi.org/10.1101/2023.06.25.546478>
 
 ## The repository is divided into two main sections
 
-1."Data Processing": This is the code to process and visualize the raw data
-2. "Experiment": This is Arduino microcontroller code and Python code for running the experiment on a Teensy 4.1 microcontroller and interacting with it through a Python GUI
+1. "Data Processing": This is the code to process and visualize the raw data
+- This uses functions from [MIN1PIPE](https://github.com/JinghaoLu/MIN1PIPE)
+3. "Experiment": This is Arduino microcontroller code and Python code for running the experiment on a Teensy 4.1 microcontroller and interacting with it through a Python GUI
 
 
