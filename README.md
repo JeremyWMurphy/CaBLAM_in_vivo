@@ -9,8 +9,10 @@ bioRxiv 2023.06.25.546478; doi: <https://doi.org/10.1101/2023.06.25.546478>
 
 1. "Data Processing": This is the MATLAB code used to process and visualize the raw data
   - This uses functions from [MIN1PIPE](https://github.com/JinghaoLu/MIN1PIPE)
+    
     Lu, J., Li, C., Singh-Alvarado, J., Zhou, Z. C., Fröhlich, F., Mooney, R., & Wang, F. (2018).
     MIN1PIPE: a miniscope 1-photon-based calcium imaging signal extraction pipeline. Cell reports, 23(12), 3673-3684.
+    
 3. "Experiment": This is Arduino microcontroller code and Python code for running the experiment on a Teensy 4.1 microcontroller and interacting with it through a Python GUI
 
 
