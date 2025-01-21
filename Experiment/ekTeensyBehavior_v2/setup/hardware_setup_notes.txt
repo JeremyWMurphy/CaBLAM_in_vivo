@@ -1,0 +1,8 @@
+ek behavior setup
+
+- teensy 4.1
+- 12v supply
+- in4001 molded plastic case rectifier diodes 1A, 50V
+- RFP30N06LE, RF1S30N06LESM 30A, 60V, ESD Rated, 0.047 Ohm, Logic Level N-Channel Power MOSFETs
+- single pole, double throw switch
+
